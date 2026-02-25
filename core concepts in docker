@@ -1,0 +1,12 @@
+Image : blueprint 
+  
+container: running instance of a image.
+
+Dockerfile: instructions to buils image.
+
+Docker compose: Run multiple containers together.
+
+Volumes: Persistent storage.
+
+Networks: Container-to-container communication.
+  
