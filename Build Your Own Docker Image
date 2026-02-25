@@ -1,0 +1,11 @@
+simple Node app:
+
+## javascript
+const http = require("http");
+http.createServer((req, res) => {
+  res.end("Hello Company World!");
+}).listen(3000);
+
+Dockerfile
+
+FROM: 
