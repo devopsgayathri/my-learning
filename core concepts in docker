@@ -2,7 +2,7 @@ Image : blueprint
   
 container: running instance of a image.
 
-Dockerfile: instructions to buils image.
+Dockerfile: instructions to build image.
 
 Docker compose: Run multiple containers together.
 
