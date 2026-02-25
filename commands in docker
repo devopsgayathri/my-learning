@@ -1,0 +1,7 @@
+Install docker
+
+docker --version
+
+Run Your First Container:
+docker run hello-world
+docker run -it ubuntu bash ## Now you’re inside a Linux container.
